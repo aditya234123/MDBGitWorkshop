@@ -1,2 +1,2 @@
 Hello Newbies! Git Workshop!
-changes in master to hi.txt
+changes in branch 2
